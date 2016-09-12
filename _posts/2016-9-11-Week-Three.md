@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS371P Week One
+title: CS371P Week Three
 ---
 
 __What did I do this week?__ I thought this week went by incredibly fast, which I guess I should have expected given that it was a shorter week than usual. Most of my time this week was spent on the first assignments of the year for this class and Algorithms.  Both assignments were considerably easier than I expected, but I’m sure the next assignments will be harder. Unfortunately, I was a little less proactive with starting these assignments as I should have been, but I plan to turn that around this week.
