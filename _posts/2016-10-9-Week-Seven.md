@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS371P Week Six
+title: CS371P Week Seven
 ---
 
 __What did I do this week?__ This week was rather relaxed for me. Obviously, I had a test in this class, OOP, and I had an assignment in Info Retrieval, but neither of those really caused me very much stress. The Info Retrieval assignment was fairly simple, so I finished it in a few hours, so I had enough time to prepare for the test, even though I didn’t actually use all of that in a productive manner. I thought the test was very fair. There were six programming questions, one of which was a fair bit more involved than the others, but none of them were too ridiculous. Number five was a little confusing at first, but the unit tests that were included in the description for the question were a big hint. Once I finally came up with a solution it was incredibly satisfying, although I woke up the next day worried that I’d mistyped my solution for operator *(). Additionally, on one of the questions, I was reviewing my work in the last minute of the test, and I accidentally removed a != operator, so now I have a line of code that doesn’t make very much sense. Hopefully I’m wrong about making the former mistake, and I hope they’ll be lenient about the missing !=. 
