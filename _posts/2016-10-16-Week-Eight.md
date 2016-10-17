@@ -9,4 +9,4 @@ __What’s in your way?__ I have a lot more work to do this week than I did last
 
 __What will you do next week?__ Next week I have a bit of work to do, but I’m not too stressed about it. I need to start and finish the algorithms assignment, take a test in info retrieval, and finish the OOP project. All of those things are on different days, though, so I think I should be able to space them out reasonably well. 
 
-__Tip of the week__ 
+__Tip of the week__ I know it isn't a groundbreaking tip, but get enough sleep when you can. As students we tend to compromise with sleep a lot, but it really isn't worth the negative side effects that come along with it, like a weakened immune system.
