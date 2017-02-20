@@ -11,4 +11,4 @@ __What will you do next week?__ I have a homework assignment in software design 
 
 __What's your experience of the class?__ My experience of the class still hasn’t changed very much; I really enjoy Professor Downing’s teaching style, and I think the material is useful and interesting. 
 
-__Tip of the Week:__ If you're feeling lazy, sit down and play the type of music you'd hear on sixth street. It'll really pipe you up again.
+__Tip of the Week:__ If you're feeling lazy, sit down and play the type of music you'd hear on sixth street. It'll really reenergize you.
