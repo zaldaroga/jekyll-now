@@ -5,7 +5,7 @@ title: CS373 Week Seven
 
 __What did I do this week?__ This last week we had a test in this class, SWE, which went alright for me, though it was really different from what I had expected. After taking OOP last semester, I was expecting a very similar exam, but it actually ended up resembling the quizzes more closely. 
 
-__What’s in your way?__ : I don’t really have anything in my way right now. I have a programming for performance assignment due on Tuesday, but my partner and I have done a pretty good portion of it already, so I don’t think finishing it is really going to be too much of a problem.
+__What’s in your way?__ I don’t really have anything in my way right now. I have a programming for performance assignment due on Tuesday, but my partner and I have done a pretty good portion of it already, so I don’t think finishing it is really going to be too much of a problem.
 
 __What will you do next week?__ Next week I’ll finish up the programming for performance assignment I have due on Tuesday and do my software design programming assignment that’s due on Saturday, I think, over the course of the week.
 
